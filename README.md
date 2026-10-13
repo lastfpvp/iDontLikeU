@@ -1,6 +1,8 @@
 > [!IMPORTANT]
-> You'll need to build [Vencord](https://github.com/Vendicated/Vencord) first,<br/>
-> Check out https://docs.vencord.dev/installing/custom-plugins for more info.
+> You'll need to build [Vencord](https://github.com/Vendicated/Vencord) first<br/>
+> Check out https://docs.vencord.dev/installing/custom-plugins for more info<br/>
+> 
+> Also you'll need [Node.js](https://nodejs.org/en/download) and [Git](https://git-scm.com/install/windows) (if this is your first time)
 
 ## Tech Stack
 - VS Code (Editor)
