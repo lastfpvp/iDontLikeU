@@ -25,3 +25,5 @@ To update the plugin, use the following commands:
 cd src/userplugins/iDontLikeU
 git pull
 ```
+
+You can read the [Official Install Guide](https://discord.com/channels/1015060230222131221/1257038407503446176) on [Vencord's Discord Server](https://discord.gg/vencord)
