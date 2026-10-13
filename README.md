@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> You'll need to build [Vencord](https://docs.vencord.dev/installing/) first<br/>
+> You'll have to [build from source](https://docs.vencord.dev/installing/) to add custom plugins<br/>
 > Check out https://docs.vencord.dev/installing/custom-plugins for more info<br/>
 > 
 
