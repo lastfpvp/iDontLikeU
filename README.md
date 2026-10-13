@@ -1,17 +1,25 @@
-> [!NOTE]
-> You'll need to build [Vencord](https://github.com/Vendicated/Vencord) first.
-
-## Install
-1. Create `userplugins` folder inside your `src` folder (probably in the root, ignore this step if you have one)
-2. Run these commands:
-```bash
-cd userplugins
-git clone https://github.com/lastfpvp/IDontLikeU
-pnpm build
-```
-3. Launch your Discord and head up to Settings > Plugins > Filters > Show UserPlugins, and enable the plugin.
+> [!IMPORTANT]
+> You'll need to build [Vencord](https://github.com/Vendicated/Vencord) first,<br/>
+> Check out https://docs.vencord.dev/installing/custom-plugins for more info.
 
 ## Tech Stack
 - VS Code (Editor)
 - Typescript/TSX
 - Vencord's plugin API
+
+## Install
+1. Create `userplugins` folder inside your `src` folder (read the guide above if you're confused, or ignore this step if you already have one)
+2. Open the terminal and run these commands inside the `src` folder:
+```bash
+cd userplugins
+git clone https://github.com/lastfpvp/iDontLikeU
+pnpm build
+```
+3. Launch your Discord and head up to Settings > Plugins > Filters > Show UserPlugins, search for the plugin and enable it.
+
+## Update
+To update the plugin, use the following commands:
+```bash
+cd src/userplugins/iDontLikeU
+git pull
+```
